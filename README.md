@@ -2,7 +2,7 @@
 1) Copy SC313 XML file into Live > User > Client > 0 > controls > Mappings
 2) Open steam, select Games > Add Non Steam Game to Library > Navigate to RSIlauncher.exe
 3) Plug in or connect your steam controller
-4) Select Library > Right Click RSI Launcher > Manage > Controller Configerations
+4) Select Library > Right Click RSI Launcher > Manage > Controller Configuration 
 5) In the overlay select "Browse Configs" and search for "LOJ | Star Citizen Steam v3.13" and Apply Config
 6) Close everything > re-open steam > Launch RSI Launcher
 7) At the Star Citizen menu screen, navigate to controls and apply new SC313 keybindings to all control classes (Keyboard / Mouse / Controller) as this is a hybrid control scheme and simulates all 3 inputs.
