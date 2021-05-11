@@ -1,7 +1,13 @@
 # SC-Controls
 
-Before we start, select Code (green button above) and select download to zip, you will need the layout_SC313_exported.xml
+Before we start, select Code (green button above) and select download to zip, you will need the layout_SC313_exported.xml and download the Star Citizen custom overlay Icons (SC_Icon_pak)
 
+# Installing the Icons
+1) Download and extract the SC_Icon_Pak.zip
+2) Navigate to [YOUR INSTALLATION DRIVE] \Program Files (x86)\Steam\tenfoot\resource\images\library\controller\binding_icons
+3) Move the custom Icons into this folder
+
+# Setting up the custom keybindings and overlay
 1) Copy SC313 XML file into Live > User > Client > 0 > controls > Mappings
 2) Open steam, select Games > Add Non Steam Game to Library > Navigate to RSIlauncher.exe
 3) Plug in or connect your steam controller
